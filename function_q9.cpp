@@ -46,7 +46,7 @@ int euclidean_algorithm(int *parr, int N){
     printf("GCD is  : %d", gcd);
     return 0;
 }
-
+/*간략하게 정리해봄*/
 // #include <stdio.h>
 // /*1071, 1029 => r = 42 // 1029, 42 => r = 21 // 42, 21 => r = 0 21이 최대공약수*/
 // int euclidean_algorithm(int a, int b);/*유클리드 호제법.*/
