@@ -76,7 +76,7 @@ int add(char *p, char *q, char *r, int *s, int a){
 }
 int search(char (*p)[30], char (*q)[30], char (*r)[30], int (*s)[2]){
     int find;
-    int i, j;
+    int i;
     char name[30];
     printf("What do you search about the book ?\n 1. Title  2. Author   3. Publisher \n>> :");
     scanf("%d", &find);
