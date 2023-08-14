@@ -75,7 +75,7 @@
 //     return 0;
 // }
 
-/* 파일 위치 지정자 position indicator*/
+/* 파일 위치 지정자 file position indicator*/
 // fseek(가리키는 파일 ex. fp, 얼만큼 떨어져 있나 ex. 0, 상태 SEEK_SET);
 // 처음 SEEK_SET, 현재 SEEK_CUR, 맨 끝 SEEK_END 상수로 존재
 // #include <stdio.h>
